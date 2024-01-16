@@ -14,7 +14,7 @@ function App() {
           <Navbar.Brand>
             <Link path="/" className="navbar-brand text-success fw-semibold">
               {" "}
-              Toddys Buka
+              Toddys Restarant
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
